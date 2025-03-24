@@ -1,0 +1,25 @@
+.image {
+  padding-bottom: 20px;
+  border: 2px solid rgb(46, 46, 99);
+  border-radius: 20px;
+  width: 300px;
+  height: 300px;
+  box-shadow: 0px 10px 10px rgb(93, 93, 147, 0.8);
+}
+body {
+  background-image: url(https://images.pexels.com/photos/3208882/pexels-photo-3208882.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+  background-size: cover;
+  text-align: center;
+  margin: 20px;
+  padding: 100px, 100px;
+  border: 3px solid rgb(46, 46, 99);
+  border-radius: 20px;
+}
+section {
+  padding: 50px;
+}
+article,
+h1 {
+  padding-top: 5px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
